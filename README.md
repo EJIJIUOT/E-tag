@@ -1,6 +1,6 @@
 # E-tag
 Laser tag system on an ESP32 chip.
-The source code is written in C using asp-idf.
+The source code is written in C using esp-idf.
 We use 1 third-party library for the screen (ssd1306),the remaining pieces of code are taken from the examples of the official idf.
 The project is configured for use with a bluetooth headband(if the headband is not connected via bluetooth
 then the anti-cheat function will work by blocking all other functions).
