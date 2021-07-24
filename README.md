@@ -6,7 +6,7 @@ The project is configured for use with a bluetooth headband(if the headband is n
 then the anti-cheat function will work by blocking all other functions).
 To transfer the source code to platformio:
 1. Install vs_code +platformio.
-2. Create a new project with asp-idf.
+2. Create a new project with esp-idf.
 3. We collect an empty project,if it is going normally, go to step 4.
 4. Open the project folder in the usual Windows Explorer, files:
 partitions_4m.csv
